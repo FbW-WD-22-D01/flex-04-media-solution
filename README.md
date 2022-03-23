@@ -1,18 +1,16 @@
-## Instructions for students:
+## Anleitung: - Solution
 
-### 7 Boxes
+### 7 Boxen
 
-1. Refresh your Flexbox skills with this fun game [flexboxfroggy](http://flexboxfroggy.com)
+- Erstellt 7 Boxen mit Flexbox & Mediaqueries.
 
-2. Create 7 Boxes with Flexbox & Mediaqueries.
+- Jede Box hat eine Farbe. Gestalten Sie die Boxen wie folgt:
 
-3. There are 7 boxes on the page, each has a color. Style the boxes as follows:
+   * 0px-600px: Die Boxen 1-7 sollten jeweils 100% einer Zeile einnehmen
 
-   * 0px-600px: boxes 1-7 should each take up 100% of one row
+   * 601px-800px: Die Boxen 1 und 2 sollten jeweils 100% einer Zeile einnehmen, 3, 4 und 5 sollten jeweils 33,33% einer Zeile einnehmen und 6 und 7 sollten jeweils 100% einer Zeile einnehmen
 
-   * 601px-800px: boxes 1 and 2 should each take 100% of one row, 3, 4 and 5 should each take up 33.33% of 1 row, and 6 and 7 should each take up 100% of one row
-
-   * 801px +: boxes 1 and 2 should each take up 50% of one row, 3, 4 and 5 each should take up 33.33% of 1 row, and 6 & 7 should each take up 50% of one row
+   * 801px+: Die Boxen 1 und 2 sollten jeweils 50 % einer Zeile einnehmen, 3, 4 und 5 sollten jeweils 33,33 % einer Zeile einnehmen, und 6 und 7 sollten jeweils 50 % einer Zeile einnehmen.
 
 Images for reference:
 ![desktop](/images/desktop.png)
@@ -20,14 +18,4 @@ Images for reference:
  ![tablet](/images/tablet.png)
 
 ![mobile](/images/mobile.png)
-   
-
-### Rules
-
--   This is an individual assignment.
--   Deadline: 1 and 1/2 hours.
--   Use **Git properly**
--   Feel free to document your code with comments.
-
-
 
